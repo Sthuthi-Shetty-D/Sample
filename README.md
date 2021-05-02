@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <title>Sample</title>
+  <title> sample </title>
  </head>
  <body>
   <img src="sthu.png" width="98" height="98">
