@@ -2,9 +2,9 @@
 <!DOCTYPE html>
  <html lang="en">
  <head>
-  <title>
+ 
    Sample!!!
-  </title>
+
  <body>
   <img src="sthu.png" width="98" height="98" >
   <h1>Sthuthi Shetty D</h1>
