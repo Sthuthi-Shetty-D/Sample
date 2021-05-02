@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <title> sample </title>
- </head>
+   sample 
  <body>
   <img src="sthu.png" width="98" height="98">
   <h1>Sthuthi Shetty D</h1>
@@ -45,4 +44,5 @@
 </ol>
 <hr />
 </body>
+</head>
 </html>
